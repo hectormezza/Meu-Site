@@ -8,7 +8,7 @@ header{
 }
 
 .cabecalho {
-    background-color: #0b3983;
+    background-color: #0e397e;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -25,4 +25,123 @@ header{
 *{
     margin: 0;
     padding: 0;
+}
+
+.nossoprojeto-imagem{
+    width: 38%;
+}
+
+.nossoprojeto{
+    background-image: linear-gradient(#0e397e, #2a78c0);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.nossoprojeto-div-conteudo{
+    width: 35%;
+}
+
+.nossoprojeto-titulo{
+    padding: 24px 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sistemaunico-imagem{
+    width: 30%;
+}
+
+.sistemaunico{
+    color: rgb(49, 49, 49);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.sistemaunico-div-conteudo{
+    text-align: justify;
+    margin: 50px;
+}
+
+.sistemaunico-titulo{
+    text-align: initial;
+    padding: 35px 0;
+}
+
+.sistemaunico-texto-um{
+    text-align: justify;
+    width: 60%;
+}
+
+.prouni-imagem{
+    width: 25%;
+}
+
+.prouni{
+    color: rgb(49, 49, 49);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+    margin: 50px;
+}
+
+.prouni-div-conteudo{
+    text-align: justify;
+}
+
+.prouni-titulo{
+    text-align: initial;
+}
+
+.prouni-texto-um{
+    text-align: justify;
+    width: 60%;
+}
+
+.fies-imagem{
+    width: 110%;
+}
+
+.fies{
+    color: rgb(49, 49, 49);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.fies-div-conteudo{
+    text-align: justify;
+    margin: 50px;
+}
+
+.fies-titulo{
+    text-align: initial;
+}
+
+.fies-texto-um{
+    text-align: justify;
+    width: 60%;
+}
+
+.rodape{
+    background-color: #0e397e;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 120px;
+    padding: 24px 0;
 }
